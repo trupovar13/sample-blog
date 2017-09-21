@@ -1,6 +1,6 @@
 
 require "rails_helper"
-require "spec_helper"
+#require "spec_helper"
 
 describe Contact do
   it { should validate_presence_of :email } 
