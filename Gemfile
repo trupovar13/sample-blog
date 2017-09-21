@@ -55,4 +55,5 @@ gem 'devise'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.6'
+  gem "shoulda-matchers", '~> 3.1'
 end
