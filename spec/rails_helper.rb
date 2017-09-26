@@ -64,3 +64,4 @@ Shoulda::Matchers.configure do |config|
 end
 
 require 'support/factory_girl'
+
